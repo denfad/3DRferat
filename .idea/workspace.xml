@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c97d25a-80f3-4e78-a745-5085e17bf2d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21KPbjCy8N7aD4sgyLLk73rbNmL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MainSimulation">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.denfad.Main" />
+      <module name="3DReferat" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.denfad.simulation.MainSimulation" />
+      <module name="3DReferat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.denfad.simulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainSimulation" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c97d25a-80f3-4e78-a745-5085e17bf2d8" name="Default Changelist" comment="" />
+      <created>1637686878746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637686878746</updated>
+      <workItem from="1637686883272" duration="798000" />
+      <workItem from="1637774946617" duration="122000" />
+      <workItem from="1637956297777" duration="1030000" />
+      <workItem from="1637968927661" duration="2279000" />
+      <workItem from="1637972011672" duration="1582000" />
+      <workItem from="1637973613598" duration="3062000" />
+      <workItem from="1638282835547" duration="4550000" />
+      <workItem from="1638302792135" duration="195000" />
+      <workItem from="1638476177958" duration="615000" />
+      <workItem from="1638540914951" duration="76000" />
+      <workItem from="1638610853159" duration="285000" />
+      <workItem from="1638867011518" duration="277000" />
+      <workItem from="1641577764454" duration="4986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1536" y="-377" key="#com.intellij.ide.util.MemberChooser" timestamp="1641580961104">
+      <screen x="-1680" y="-462" width="1344" height="800" />
+    </state>
+    <state x="-1536" y="-377" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1680.-462.1344.800@-1680.-462.1344.800" timestamp="1641580961104" />
+    <state x="146" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1637972579655" />
+    <state width="1301" height="339" key="GridCell.Tab.0.bottom" timestamp="1641582792465">
+      <screen x="-1680" y="-462" width="1344" height="800" />
+    </state>
+    <state width="1301" height="339" key="GridCell.Tab.0.bottom/0.0.1366.728/-1680.-462.1344.800@-1680.-462.1344.800" timestamp="1641582792465" />
+    <state width="1323" height="85" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1638867289109" />
+    <state width="1301" height="339" key="GridCell.Tab.0.center" timestamp="1641582792464">
+      <screen x="-1680" y="-462" width="1344" height="800" />
+    </state>
+    <state width="1301" height="339" key="GridCell.Tab.0.center/0.0.1366.728/-1680.-462.1344.800@-1680.-462.1344.800" timestamp="1641582792464" />
+    <state width="1323" height="85" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1638867289109" />
+    <state width="1301" height="339" key="GridCell.Tab.0.left" timestamp="1641582792464">
+      <screen x="-1680" y="-462" width="1344" height="800" />
+    </state>
+    <state width="1301" height="339" key="GridCell.Tab.0.left/0.0.1366.728/-1680.-462.1344.800@-1680.-462.1344.800" timestamp="1641582792464" />
+    <state width="1323" height="85" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1638867289109" />
+    <state width="1301" height="339" key="GridCell.Tab.0.right" timestamp="1641582792465">
+      <screen x="-1680" y="-462" width="1344" height="800" />
+    </state>
+    <state width="1301" height="339" key="GridCell.Tab.0.right/0.0.1366.728/-1680.-462.1344.800@-1680.-462.1344.800" timestamp="1641582792465" />
+    <state width="1323" height="85" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1638867289109" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1638867258910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1638867258910" />
+    <state x="65" y="0" key="new project wizard" timestamp="1637775067773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1637775067773" />
+  </component>
+</project>
